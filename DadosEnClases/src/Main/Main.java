@@ -23,7 +23,10 @@ public class Main { // // @@@ ESTUDIANTE : FABARA OJEDA DAVID FRANCISCO ____Clas
         gui.setVisible(true);  // Definimos en el metodo setVisible visivilidad activada , de lo contrario no seria vidible 
         String resultados="";
         JOptionPane.showMessageDialog(null,resultados,"Ensayando una nueva versión",JOptionPane.PLAIN_MESSAGE);
-       
+        String resultados2="";
+        JOptionPane.showMessageDialog(null,resultados,"Ensayando una nueva versión2",JOptionPane.PLAIN_MESSAGE);
+        //
+        //
    }
 
 
